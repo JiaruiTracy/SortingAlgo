@@ -1,5 +1,8 @@
 # SortingAlgo
 Basic sorting algorithm gathering in Java
+
+path: Sorting/src
+
 Currently including:
  -  bubble sort
  -  bucket sort
